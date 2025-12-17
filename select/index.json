@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "消えないファイル / 重音テト (Undeletable File / Kasane Teto)",
+  "base_artist": "読谷あかね",
+  "createdAt": "2025-12-17T08:05:43.523998Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えないファイル",
+      "artist": "読谷あかね",
+      "has_synced": false,
+      "path": "select/pl_01_消えないファイル_読谷あかね.txt"
+    }
+  ]
+}
